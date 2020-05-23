@@ -1,1 +1,1 @@
-# Text-Summarization LDA, LSA, Lexrank
+# Text-Summarization LDA, LSA, LEXRANK
