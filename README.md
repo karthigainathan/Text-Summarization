@@ -21,10 +21,9 @@ Dirichlet Allocation, Latent Semantic Analysis, Sentence Rank, and Text Rank.
 
 
 Results: The evaluation of the model is done using Recall-Oriented Understudy for Gisting Evaluation
-(ROUGE-1 and ROUGE-2). Next, each model summary is further examined with a human-generated
+(ROUGE-1 and ROUGE-2). Next, each model summary is further examined with a human-generated summary.
 
 
-summary.
 Findings: Regarding finding the performance of summary between models, the precision value of
 Sentence Rank summary for Rouge-1 (0.444353516) and Rouge-2 (0.332641116) performed better
 compared to other models. However, the model underperformed regarding precision, and future work
