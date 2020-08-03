@@ -1,4 +1,4 @@
-# Text-Summarization LDA, LSA, LEXRANK
+# Text-Summarization LDA, LSA, LEXRANK, Sentence Rank
 
 
 Abstract
